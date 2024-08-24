@@ -12,3 +12,4 @@ C:\Users\sarojkumar.panda\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\re
 C:\Users\sarojkumar.panda\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.pdb
 C:\Users\sarojkumar.panda\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.genruntimeconfig.cache
 C:\Users\sarojkumar.panda\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ref\ContactApp.dll
+C:\Users\sarojkumar.panda\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.sourcelink.json
